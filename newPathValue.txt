@@ -1,0 +1,6 @@
+~/.profile
+PATH=$PATH:$HOME/cpe422/mySetup.sh
+export PATH
+source ~/.profile
+
+bash: /home/debian/bin:/home/debian/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games:/home/debian/cpe422/:/home/debian/cpe422/mySetup.sh:
